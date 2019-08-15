@@ -1,0 +1,1 @@
+A simple agency-based simulator that is currently undocumented. The test module 'Zombie' shows the interface and use extensively. Feel free to use any of the code as you please or to contact me if you'd like to extend the model to run concurrently rather than on a single-thread.

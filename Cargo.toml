@@ -1,0 +1,12 @@
+[package]
+name = "ad-net-model"
+version = "0.1.0"
+authors = ["Josh Fourie <josh.fourie97@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.7.0"
+
+[dev-dependencies]
+simplelog = "^0.6.0"
+log = "0.4"
